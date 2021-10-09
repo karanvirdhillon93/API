@@ -1,0 +1,6 @@
+//in this file we can test our api endpoints
+
+GET http://localhost:3000
+
+###
+GET http://localhost:3000/api/v1/user/list

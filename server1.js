@@ -17,6 +17,8 @@ const http = require('http');
 
 const port = 3000;
 
+
+
 //Everytime someone will request a page to our server it is going to call this function
 const server = http.createServer((req, res)=>{
     //this is the place where the magic happens
