@@ -1,4 +1,4 @@
-<h1>Pokemon API that I created for testing that connects to a mongoDB instance.</h1>
+<h1>Pokemon API I created for testing, it includes a mongoDB backend instance.</h1>
 
 ![image](https://user-images.githubusercontent.com/77651757/151088533-e173bf11-6f5d-4d4d-9070-56cafece6acb.png)
 
